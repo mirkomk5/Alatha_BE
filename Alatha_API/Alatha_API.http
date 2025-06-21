@@ -1,0 +1,6 @@
+@Alatha_API_HostAddress = http://localhost:5188
+
+GET {{Alatha_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

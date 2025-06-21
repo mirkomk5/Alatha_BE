@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mirko\\source\\repos\\Alatha_BE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64E3CFD3-38FE-4BB8-81BD-88D799910A9B}|Alatha_API\\Alatha_API.csproj|c:\\users\\mirko\\source\\repos\\alatha_be\\alatha_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64E3CFD3-38FE-4BB8-81BD-88D799910A9B}|Alatha_API\\Alatha_API.csproj|solutionrelative:alatha_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E3CFD3-38FE-4BB8-81BD-88D799910A9B}|Alatha_API\\Alatha_API.csproj|c:\\users\\mirko\\source\\repos\\alatha_be\\alatha_api\\controllers\\useraccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E3CFD3-38FE-4BB8-81BD-88D799910A9B}|Alatha_API\\Alatha_API.csproj|solutionrelative:alatha_api\\controllers\\useraccountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E3CFD3-38FE-4BB8-81BD-88D799910A9B}|Alatha_API\\Alatha_API.csproj|c:\\users\\mirko\\source\\repos\\alatha_be\\alatha_api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E3CFD3-38FE-4BB8-81BD-88D799910A9B}|Alatha_API\\Alatha_API.csproj|solutionrelative:alatha_api\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Mirko\\source\\repos\\Alatha_BE\\Alatha_API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Alatha_API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Mirko\\source\\repos\\Alatha_BE\\Alatha_API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Alatha_API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-21T11:07:22.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Mirko\\source\\repos\\Alatha_BE\\Alatha_API\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Alatha_API\\Services\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Mirko\\source\\repos\\Alatha_BE\\Alatha_API\\Services\\JwtService.cs",
+              "RelativeToolTip": "Alatha_API\\Services\\JwtService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAewB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T10:37:29.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserAccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Mirko\\source\\repos\\Alatha_BE\\Alatha_API\\Controllers\\UserAccountController.cs",
+              "RelativeDocumentMoniker": "Alatha_API\\Controllers\\UserAccountController.cs",
+              "ToolTip": "C:\\Users\\Mirko\\source\\repos\\Alatha_BE\\Alatha_API\\Controllers\\UserAccountController.cs",
+              "RelativeToolTip": "Alatha_API\\Controllers\\UserAccountController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T12:28:51.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
