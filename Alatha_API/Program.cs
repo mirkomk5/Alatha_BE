@@ -1,5 +1,6 @@
 using Alatha_API.Services;
 using Alatha_Classes.Models;
+using Alatha_Classes.Profiles;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
@@ -14,6 +15,8 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddAutoMapper(typeof(StaffInfoProfiles));
+
 
 builder.Services.AddDbContext<AlathaTrasportiContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("dbConnection")));

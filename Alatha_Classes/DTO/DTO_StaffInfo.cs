@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Alatha_Classes.Models;
+namespace Alatha_Classes.DTO;
 
-public partial class StaffInfo
+public partial class DTO_StaffInfo
 {
-    public Guid Id { get; set; }
+    //public Guid? Id { get; set; }
 
     public string? Role { get; set; }
 

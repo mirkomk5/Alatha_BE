@@ -26,10 +26,9 @@ public partial class AlathaTrasportiContext : DbContext
     {
         modelBuilder.Entity<StaffInfo>(entity =>
         {
-            entity
-                .HasNoKey()
-                .ToTable("StaffInfo");
+            entity.ToTable("StaffInfo");
 
+            entity.Property(e => e.Id).HasDefaultValueSql("(newid())");
             entity.Property(e => e.Address)
                 .HasMaxLength(500)
                 .IsUnicode(false);
@@ -42,7 +41,6 @@ public partial class AlathaTrasportiContext : DbContext
             entity.Property(e => e.Gender)
                 .HasMaxLength(100)
                 .IsUnicode(false);
-            entity.Property(e => e.Id).HasDefaultValueSql("(newid())");
             entity.Property(e => e.Name)
                 .HasMaxLength(100)
                 .IsUnicode(false);

@@ -60,7 +60,7 @@ namespace Alatha_API.Controllers
         }
 
         [HttpGet("GetAllUsers")]
-        [MinimumRole(RoleEnum.Role.user)]
+        [MinimumRole(RoleEnum.Role.moderator)]
         public IActionResult GetAllUsers()
         {
             var result = _dbContext.UserAccounts.ToList();
@@ -105,7 +105,6 @@ namespace Alatha_API.Controllers
 
 
         [HttpGet("Test")]
-        [MinimumRole(RoleEnum.Role.moderator)]
         public IActionResult Test()
         {
             return Ok("Test passed succesfully");
