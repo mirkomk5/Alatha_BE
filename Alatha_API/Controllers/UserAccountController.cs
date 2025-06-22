@@ -65,15 +65,7 @@ namespace Alatha_API.Controllers
         {
             var result = _dbContext.UserAccounts.ToList();
             return Ok(result);
-        }
-
-        [HttpGet("GetAllStaff")]
-        [MinimumRole(RoleEnum.Role.moderator)]
-        public IActionResult GetAllStaff()
-        {
-            var result = _dbContext.StaffInfos.ToList();
-            return Ok(result);
-        }
+        }   
 
         [HttpPut("update{id:guid}")]
         [MinimumRole(RoleEnum.Role.moderator)]

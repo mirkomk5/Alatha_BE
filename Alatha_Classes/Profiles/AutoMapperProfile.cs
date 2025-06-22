@@ -4,9 +4,9 @@ using AutoMapper;
 
 namespace Alatha_Classes.Profiles
 {
-    public class StaffInfoProfiles : Profile
+    public class AutoMapperProfile : Profile
     {
-        public StaffInfoProfiles()
+        public AutoMapperProfile()
         {
             CreateMap<DTO_StaffInfo, StaffInfo>().ForMember(x => x.Id, opt => opt.MapFrom(_ => Guid.NewGuid()));
         }
