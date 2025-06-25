@@ -1,0 +1,15 @@
+C:\Users\Mirko\Documents\Backend Projects\Alatha_BE\AlathaFreehost_Classes\bin\Debug\net8.0\AlathaFreehost_Classes.deps.json
+C:\Users\Mirko\Documents\Backend Projects\Alatha_BE\AlathaFreehost_Classes\bin\Debug\net8.0\AlathaFreehost_Classes.runtimeconfig.json
+C:\Users\Mirko\Documents\Backend Projects\Alatha_BE\AlathaFreehost_Classes\bin\Debug\net8.0\AlathaFreehost_Classes.dll
+C:\Users\Mirko\Documents\Backend Projects\Alatha_BE\AlathaFreehost_Classes\bin\Debug\net8.0\AlathaFreehost_Classes.pdb
+C:\Users\Mirko\Documents\Backend Projects\Alatha_BE\AlathaFreehost_Classes\obj\Debug\net8.0\AlathaFreehost_Classes.csproj.AssemblyReference.cache
+C:\Users\Mirko\Documents\Backend Projects\Alatha_BE\AlathaFreehost_Classes\obj\Debug\net8.0\AlathaFreehost_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mirko\Documents\Backend Projects\Alatha_BE\AlathaFreehost_Classes\obj\Debug\net8.0\AlathaFreehost_Classes.AssemblyInfoInputs.cache
+C:\Users\Mirko\Documents\Backend Projects\Alatha_BE\AlathaFreehost_Classes\obj\Debug\net8.0\AlathaFreehost_Classes.AssemblyInfo.cs
+C:\Users\Mirko\Documents\Backend Projects\Alatha_BE\AlathaFreehost_Classes\obj\Debug\net8.0\AlathaFreehost_Classes.csproj.CoreCompileInputs.cache
+C:\Users\Mirko\Documents\Backend Projects\Alatha_BE\AlathaFreehost_Classes\obj\Debug\net8.0\AlathaFreehost_Classes.sourcelink.json
+C:\Users\Mirko\Documents\Backend Projects\Alatha_BE\AlathaFreehost_Classes\obj\Debug\net8.0\AlathaFreehost_Classes.dll
+C:\Users\Mirko\Documents\Backend Projects\Alatha_BE\AlathaFreehost_Classes\obj\Debug\net8.0\refint\AlathaFreehost_Classes.dll
+C:\Users\Mirko\Documents\Backend Projects\Alatha_BE\AlathaFreehost_Classes\obj\Debug\net8.0\AlathaFreehost_Classes.pdb
+C:\Users\Mirko\Documents\Backend Projects\Alatha_BE\AlathaFreehost_Classes\obj\Debug\net8.0\AlathaFreehost_Classes.genruntimeconfig.cache
+C:\Users\Mirko\Documents\Backend Projects\Alatha_BE\AlathaFreehost_Classes\obj\Debug\net8.0\ref\AlathaFreehost_Classes.dll

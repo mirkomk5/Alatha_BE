@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Alatha_Classes")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Alatha_API")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39c80a2c90fb96c0a8b249d0108566eb3f879f7b")]
-[assembly: System.Reflection.AssemblyProductAttribute("Alatha_Classes")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Alatha_Classes")]
+[assembly: System.Reflection.AssemblyProductAttribute("Alatha_API")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Alatha_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generato dalla classe WriteCodeFragment di MSBuild.
