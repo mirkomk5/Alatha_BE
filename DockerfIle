@@ -1,20 +1,9 @@
-FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
-WORKDIR /app
-EXPOSE 8080
-
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
-COPY ["Alatha_API/Alatha_API.csproj", "Alatha_API/"] # Sostituisci MyApiProject con il nome della tua cartella di progetto
-RUN dotnet restore "Alatha_API/Alatha_API.csproj"
-
 COPY . .
-WORKDIR "/src/Alatha_API" # Entra nella cartella del tuo progetto
-RUN dotnet build "Alatha_API.csproj" -c Release -o /app/build
+RUN dotnet publish -c Release -o /app
 
-FROM build AS publish
-RUN dotnet publish "Alatha_API.csproj" -c Release -o /app/publish /p:UseAppHost=false # Sostituisci MyApiProject.csproj con il nome del tuo file di progetto
-
-FROM base AS final
+FROM mcr.microsoft.com/dotnet/aspnet:8.0
 WORKDIR /app
-COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "Alatha_API.dll"] # Sostituisci MyApiProject.dll con il nome del tuo DLL finale
+COPY --from=build /app .
+ENTRYPOINT ["dotnet", "Alatha_API.dll"]
