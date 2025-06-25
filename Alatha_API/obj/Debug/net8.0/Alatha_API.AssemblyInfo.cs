@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Alatha_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c1fd8a4fca20cd5e3f1240fad16320fce281f28")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd7733927c28676928cd156b8abd65d840e45579")]
 [assembly: System.Reflection.AssemblyProductAttribute("Alatha_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Alatha_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
