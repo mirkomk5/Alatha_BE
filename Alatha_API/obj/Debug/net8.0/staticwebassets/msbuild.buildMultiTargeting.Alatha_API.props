@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Alatha_API.props" />
+</Project>

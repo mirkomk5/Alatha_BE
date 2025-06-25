@@ -1,0 +1,25 @@
+C:\Users\Mirko\source\repos\Alatha_BE\Alatha_Classes\bin\Debug\net8.0\Alatha_Classes.deps.json
+C:\Users\Mirko\source\repos\Alatha_BE\Alatha_Classes\bin\Debug\net8.0\Alatha_Classes.dll
+C:\Users\Mirko\source\repos\Alatha_BE\Alatha_Classes\bin\Debug\net8.0\Alatha_Classes.pdb
+C:\Users\Mirko\source\repos\Alatha_BE\Alatha_Classes\obj\Debug\net8.0\Alatha_Classes.csproj.AssemblyReference.cache
+C:\Users\Mirko\source\repos\Alatha_BE\Alatha_Classes\obj\Debug\net8.0\Alatha_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mirko\source\repos\Alatha_BE\Alatha_Classes\obj\Debug\net8.0\Alatha_Classes.AssemblyInfoInputs.cache
+C:\Users\Mirko\source\repos\Alatha_BE\Alatha_Classes\obj\Debug\net8.0\Alatha_Classes.AssemblyInfo.cs
+C:\Users\Mirko\source\repos\Alatha_BE\Alatha_Classes\obj\Debug\net8.0\Alatha_Classes.csproj.CoreCompileInputs.cache
+C:\Users\Mirko\source\repos\Alatha_BE\Alatha_Classes\obj\Debug\net8.0\Alatha_Classes.dll
+C:\Users\Mirko\source\repos\Alatha_BE\Alatha_Classes\obj\Debug\net8.0\refint\Alatha_Classes.dll
+C:\Users\Mirko\source\repos\Alatha_BE\Alatha_Classes\obj\Debug\net8.0\Alatha_Classes.pdb
+C:\Users\Mirko\source\repos\Alatha_BE\Alatha_Classes\obj\Debug\net8.0\ref\Alatha_Classes.dll
+C:\Users\Mirko\Documents\Backend Projects\Alatha_BE\Alatha_Classes\bin\Debug\net8.0\Alatha_Classes.deps.json
+C:\Users\Mirko\Documents\Backend Projects\Alatha_BE\Alatha_Classes\bin\Debug\net8.0\Alatha_Classes.dll
+C:\Users\Mirko\Documents\Backend Projects\Alatha_BE\Alatha_Classes\bin\Debug\net8.0\Alatha_Classes.pdb
+C:\Users\Mirko\Documents\Backend Projects\Alatha_BE\Alatha_Classes\obj\Debug\net8.0\Alatha_Classes.csproj.AssemblyReference.cache
+C:\Users\Mirko\Documents\Backend Projects\Alatha_BE\Alatha_Classes\obj\Debug\net8.0\Alatha_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mirko\Documents\Backend Projects\Alatha_BE\Alatha_Classes\obj\Debug\net8.0\Alatha_Classes.AssemblyInfoInputs.cache
+C:\Users\Mirko\Documents\Backend Projects\Alatha_BE\Alatha_Classes\obj\Debug\net8.0\Alatha_Classes.AssemblyInfo.cs
+C:\Users\Mirko\Documents\Backend Projects\Alatha_BE\Alatha_Classes\obj\Debug\net8.0\Alatha_Classes.csproj.CoreCompileInputs.cache
+C:\Users\Mirko\Documents\Backend Projects\Alatha_BE\Alatha_Classes\obj\Debug\net8.0\Alatha_Classes.sourcelink.json
+C:\Users\Mirko\Documents\Backend Projects\Alatha_BE\Alatha_Classes\obj\Debug\net8.0\Alatha_Classes.dll
+C:\Users\Mirko\Documents\Backend Projects\Alatha_BE\Alatha_Classes\obj\Debug\net8.0\refint\Alatha_Classes.dll
+C:\Users\Mirko\Documents\Backend Projects\Alatha_BE\Alatha_Classes\obj\Debug\net8.0\Alatha_Classes.pdb
+C:\Users\Mirko\Documents\Backend Projects\Alatha_BE\Alatha_Classes\obj\Debug\net8.0\ref\Alatha_Classes.dll

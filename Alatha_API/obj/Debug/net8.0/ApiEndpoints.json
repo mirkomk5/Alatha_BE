@@ -1,0 +1,201 @@
+[
+  {
+    "ContainingType": "Alatha_API.Controllers.StaffController",
+    "Method": "CreateStaff",
+    "RelativePath": "api/Staff/CreateStaff",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newStaff",
+        "Type": "Alatha_Classes.DTO.DTO_StaffInfo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Alatha_API.Controllers.StaffController",
+    "Method": "GetAllStaff",
+    "RelativePath": "api/Staff/GetAllStaff",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Alatha_API.Controllers.StaffController",
+    "Method": "GetExpiredMedicalDate",
+    "RelativePath": "api/Staff/GetExpiredMedicalDate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Alatha_API.Controllers.StaffController",
+    "Method": "GetStaffByRole",
+    "RelativePath": "api/Staff/GetStaffByRole",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "role",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Alatha_API.Controllers.StaffController",
+    "Method": "RemoveStaff",
+    "RelativePath": "api/Staff/RemoveStaff{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Alatha_API.Controllers.StaffController",
+    "Method": "UpdateStaff",
+    "RelativePath": "api/Staff/UpdateStaff{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "staffInfo",
+        "Type": "Alatha_Classes.DTO.DTO_StaffInfo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Alatha_API.Controllers.StaffController",
+    "Method": "UpdateStaffName",
+    "RelativePath": "api/Staff/UpdateStaffName{id}",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "Alatha_Classes.DTO.DTO_StaffBaseInfo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Alatha_API.Controllers.UserAccountController",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/UserAccount/GetAllUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Alatha_API.Controllers.UserAccountController",
+    "Method": "Login",
+    "RelativePath": "api/UserAccount/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Alatha_API.Models.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Alatha_API.Controllers.UserAccountController",
+    "Method": "Register",
+    "RelativePath": "api/UserAccount/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Alatha_Classes.DTO.DTO_UserAccountSimple",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Alatha_API.Controllers.UserAccountController",
+    "Method": "Test",
+    "RelativePath": "api/UserAccount/Test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Alatha_API.Controllers.UserAccountController",
+    "Method": "EditAccount",
+    "RelativePath": "api/UserAccount/update{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "Alatha_Classes.DTO.DTO_UserAccount",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Alatha_API.Controllers.UserAccountController",
+    "Method": "RemoveAccount",
+    "RelativePath": "api/UserAccount/update{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
