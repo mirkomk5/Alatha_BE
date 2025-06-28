@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlathaFreehost_Classes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39c80a2c90fb96c0a8b249d0108566eb3f879f7b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb1700c06b7e76cc536f65d3fb769c073f1c145a")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlathaFreehost_Classes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlathaFreehost_Classes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

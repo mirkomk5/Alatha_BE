@@ -1,6 +1,7 @@
 using Alatha_API.Services;
 using Alatha_Classes.Models;
 using Alatha_Classes.Profiles;
+using AlathaFreehost_Classes.Models;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
@@ -22,8 +23,11 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddAutoMapper(typeof(AutoMapperProfile));
 
 
-builder.Services.AddDbContext<AlathaTrasportiContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("dbConnection")));
+//builder.Services.AddDbContext<AlathaTrasportiContext>(options =>
+//    options.UseSqlServer(builder.Configuration.GetConnectionString("dbConnection")));
+
+builder.Services.AddDbContext<Sql7786729Context>(options =>
+        options.UseMySql(ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("dbConnection"))));
 
 // Jwt Config ***************************
 
@@ -49,7 +53,8 @@ builder.Services.AddAuthentication(options =>
     };
 });
 builder.Services.AddAuthorization();
-builder.Services.AddScoped<JwtService>();
+//builder.Services.AddScoped<JwtService>();
+builder.Services.AddScoped<HostedJwtService>();
 
 // Swagger Jwt Authentication ***********
 

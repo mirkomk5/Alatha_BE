@@ -1,5 +1,47 @@
 [
   {
+    "ContainingType": "Alatha_API.HostedControllers.HostedUserAccountController",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/HostedUserAccount/GetAllUsers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Alatha_API.HostedControllers.HostedUserAccountController",
+    "Method": "Login",
+    "RelativePath": "api/HostedUserAccount/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Alatha_API.Models.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Alatha_API.HostedControllers.HostedUserAccountController",
+    "Method": "Register",
+    "RelativePath": "api/HostedUserAccount/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Alatha_Classes.DTO.DTO_UserAccountSimple",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Alatha_API.Controllers.StaffController",
     "Method": "CreateStaff",
     "RelativePath": "api/Staff/CreateStaff",
